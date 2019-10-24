@@ -2,7 +2,7 @@
 
 2048 implemented with **pygame**.
 
-![1571883382909](/home/ding/.config/Typora/typora-user-images/1571883382909.png)
+![screenshot](img/screenshot.png)
 
 To start the game, run:
 
